@@ -2,7 +2,10 @@ body {
     font-family: "Ubuntu", sans-serif;
   }
   
-  /* Hero Section */
+  html, 
+  body{
+    scroll-behavior: smooth;
+  }
   
   #Hero-Section {
     background-image: url("./img/yo1.jpeg");
@@ -10,7 +13,7 @@ body {
     background-position: center;
   }
   
-  /* Mis trabajos */
+  
   
   #Mis-trabajos .image-top {
     height: 250px;
