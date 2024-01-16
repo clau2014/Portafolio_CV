@@ -7,18 +7,18 @@ body {
     scroll-behavior: smooth;
   }
   
-  #Hero-Section {
-    background-image: url("./img/yo1.jpeg");
+  #Portada {
+    background-image: url("img/yo.JPG");
     background-repeat: no-repeat;
-    background-position: center;
-    margin-top: 20px;
+    background-size: cover;
+    background-position: left;
   }
   
   h1{
     margin-right: 20px
   }
   
-  #Mis-trabajos .image-top {
+  #Proyectos Destacados.image-top {
     height: 250px;
     background-repeat: no-repeat;
     background-size: cover;
