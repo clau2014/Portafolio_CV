@@ -13,14 +13,14 @@ body {
     background-size: cover;
     background-position: left;
   }
-  
+
   h1{
     margin-right: 20px
   }
   
   #Proyectos Destacados.image-top {
     height: 250px;
-    background-repeat: no-repeat;
+    background-color: blueviolet;
     background-size: cover;
     background-position: center;
   }
